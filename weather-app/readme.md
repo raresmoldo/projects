@@ -28,4 +28,15 @@ Built with **HTML**, **CSS**, and **JavaScript**, it uses a weather API to fetch
 
 1. Clone the repository:
    ```bash 
-   git clone https://github.com/YOUR-USERNAME/projects.git
+   git clone https://github.com/raresmoldo/projects.git
+   
+2. Navigate to the weather-app folder:
+   ```bash
+   cd projects/weather-app
+   
+3. Open index.html in your browser.
+
+## 📸 Screenshots
+<img width="1871" height="913" alt="image" src="https://github.com/user-attachments/assets/797f7d0e-4234-4628-b19e-62663238d852" />
+<img width="1871" height="913" alt="image" src="https://github.com/user-attachments/assets/b7462d69-28e7-4f8e-a3e2-23c75e51bc99" />
+
