@@ -30,3 +30,12 @@ Built with **HTML**, **CSS**, and **JavaScript**, it allows you to add, remove, 
 
 ```bash
 git clone https://github.com/raresmoldo/projects.git
+```
+
+2. Navigate to the todo-list folder:
+   
+```bash
+cd projects/todo-list
+```
+
+3. Open index.html in your browser
