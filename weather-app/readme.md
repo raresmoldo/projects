@@ -9,23 +9,23 @@ Built with **HTML**, **CSS**, and **JavaScript**, it uses a weather API to fetch
 
 - 📍 **Automatic Location Detection** – Detects user location using the browser’s geolocation API  
 - 🔍 **City Search** – Search weather data for any city  
-- 🌡️ **Real-Time Data** – Temperature & weather conditions  
-- 🌓 **Light/Dark Mode** – Toggle between light and dark themes  
+- 🌡️ **Real-Time Data** – Temperature & weather conditions 
+- 🌓 **Light/Dark Mode** – Toggle between light and dark themes 
 - 📱 **Responsive Design** – Works on desktop and mobile
 
 ---
 
 ## 🛠️ Technologies Used
 
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla JS)  
-- [OpenWeatherMap API](https://openweathermap.org/api) *(or replace with the API you used)*
+- HTML5 
+- CSS3 
+- JavaScript (Vanilla JS) 
+- [OpenWeatherMap API](https://openweathermap.org/api)
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone the repository:
-   ```bash
+   ```bash 
    git clone https://github.com/YOUR-USERNAME/projects.git
