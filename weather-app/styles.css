@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+    transition: background 0.3s, color 0.3s;
+}
+
+.light-mode{
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.dark-mode{
+    background-color: #1e1e1e;
+    color: #ddd; 
+}
+
+.app{
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+header{
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+input{
+    padding: 10px;
+    width: 60%;
+    margin: 5px;
+}
+
+.weather-display{
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.05);
+}
